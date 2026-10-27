@@ -14,3 +14,4 @@
 
 **That's all for today. I'm going to practice java and some other things.2026/10/27.GOOD NIGHT.**
 
+**I'm currently working on minecraft plugin and mods.**
