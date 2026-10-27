@@ -1,4 +1,6 @@
 ## Hi there 👋
+test
+emoji test 😎
 
 <!--
 **B0nn1e-sar/B0nn1e-sar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
