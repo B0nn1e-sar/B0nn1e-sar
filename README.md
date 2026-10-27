@@ -12,5 +12,5 @@
 - [x] [test](http://b0nn1e-sar.github.io)
 - [x] OK I got a special mark √.
 
-
+**That's all for today. I'm going to practice java and some other things.2026/10/27.GOOD NIGHT.**
 
